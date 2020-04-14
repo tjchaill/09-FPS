@@ -1,2 +1,2 @@
-# 09-FPS
-first person shooter
+# Project-Template-Godot
+A default Godot project template for MSCH-C220
