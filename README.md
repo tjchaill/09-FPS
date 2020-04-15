@@ -1,2 +1,1 @@
-# Project-Template-Godot
-A default Godot project template for MSCH-C220
+Given that a new Doom was recently released, I wanted to create an FPS that had elements central to the original DOOM games. I watched a tutorial on youtube that detailed how to achieve this end and combined some of those aspects with the FPS player controller detailed in one of our class exercises. You can click to shoot your gun, press escape to exit the game, and press r to restart the game. The objective is to kill all 4 zombies. I created the original "finish line" mesh in blender. Going through the finish line does not end the game as I could not figure out how to do that. Please let me know if you have any questions. 
